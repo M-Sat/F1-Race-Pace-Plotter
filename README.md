@@ -2,12 +2,16 @@
 
 A desktop application for visualizing Formula 1 race pace using FastF1 and Plotly.
 
+---
+
 ## Screenshots
 All laptimes for all drivers shown
 ![Full](screenshots/s1.jpg)
 
 Driver vs. driver (RUS vs. ANT), zoomed in to show final stint comparison
 ![Zoom](screenshots/s2.jpg)
+
+---
 
 ## Features
 
@@ -18,12 +22,16 @@ Driver vs. driver (RUS vs. ANT), zoomed in to show final stint comparison
 * Team-based driver colors
 * Interactive Plotly graph (zoom, hover, toggle)
 
+---
+
 ## Tech Stack
 
 * Python
 * PyQt5 (GUI)
 * FastF1 (data)
 * Plotly (visualization)
+
+---
 
 ## Installation
 
@@ -33,11 +41,15 @@ cd f1-race-pace-plotter
 pip install -r requirements.txt
 ```
 
+---
+
 ## Run
 
 ```bash
 python main.py
 ```
+
+---
 
 ## How it works
 
