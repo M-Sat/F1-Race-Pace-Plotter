@@ -3,7 +3,11 @@
 A desktop application for visualizing Formula 1 race pace using FastF1 and Plotly.
 
 ## Screenshots
-![Full]("")
+All laptimes for all drivers shown
+![Full](screenshots/s1.jpg)
+
+Driver vs. driver (RUS vs. ANT), zoomed in to show final stint comparison
+![Zoom](screenshots/s2.jpg)
 
 ## Features
 
